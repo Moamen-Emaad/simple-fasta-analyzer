@@ -1,6 +1,3 @@
-# simple_fasta_analyzer.py
-# A beginner-friendly FASTA analyzer using only built-in Python (no imports).
-
 
 def read_fasta(filepath):
     """Read a FASTA file and return a list of (header, sequence) pairs."""
