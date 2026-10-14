@@ -1,0 +1,5 @@
+header,length,gc_percent,A,C,G,T,N,other
+Sequence_1 human_example,21,52.38,5,5,6,5,0,0
+Sequence_2 gc_rich_example,20,100.00,0,11,9,0,0,0
+Sequence_3 contains_unknown_bases,14,50.00,2,2,3,3,4,0
+Sequence_4 short_sequence,4,50.00,1,1,1,1,0,0

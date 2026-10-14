@@ -1,0 +1,9 @@
+
+>Sequence_1 human_example
+ATGCGATCGATCGATCGATCG
+>Sequence_2 gc_rich_example
+GGGCCCGCGCGGCCCGCGCC
+>Sequence_3 contains_unknown_bases
+ATGCNNNTTAGCGN
+>Sequence_4 short_sequence
+ATGC
